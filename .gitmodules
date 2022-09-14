@@ -1,0 +1,4 @@
+[submodule "erpc"]
+	path = erpc
+	url = https://github.com/EmbeddedRPC/erpc.git
+	branch = master
